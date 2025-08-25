@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="isp-lab-4" />
+        <module name="isp-lab-10 (1)" />
+        <module name="laborator4isp" />
+        <module name="template-isp-lab (1)" />
+        <module name="isp-lab-7" />
+        <module name="isp-lab-8" />
+        <module name="isp-lab-10" />
+        <module name="template-isp-lab" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="isp-lab-10 (1)" options="-Xlint:all" />
+      <module name="isp-lab-4" options="-Xlint:all" />
+      <module name="isp-lab-7" options="-Xlint:all" />
+      <module name="isp-lab-8" options="-Xlint:all" />
+      <module name="laborator4isp" options="-Xlint:all" />
+      <module name="template-isp-lab" options="-Xlint:all" />
+      <module name="template-isp-lab (1)" options="-Xlint:all" />
+    </option>
+  </component>
+</project>
